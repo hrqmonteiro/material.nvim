@@ -60,6 +60,7 @@ if vim.o.background == 'dark' then
     materialYellowOrange = '#D7BA7D',
     materialYellow = '#ffcb6b',
     materialPink = '#C586C0',
+    materialPurple = '#c792ea',
   }
 end
 
