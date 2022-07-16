@@ -23,10 +23,11 @@ if vim.o.background == 'dark' then
     materialSplitDark = '#444444',
     materialSplitThumb = '#424242',
 
-    materialCursorDarkDark = '#222222',
+    materialCursorDarkDark = '#002020',
     materialCursorDark = '#51504F',
     materialCursorLight = '#AEAFAD',
-    materialSelection = '#264F78',
+    materialSelection = '#1E611E',
+    materialSelectioNFg = '#FFFFFF',
     materialLineNumber = '#5A5A5A',
 
     materialDiffRedDark = '#4B1818',
@@ -43,20 +44,20 @@ if vim.o.background == 'dark' then
     materialFoldBackground = '#202d39',
 
     -- Syntax colors
-    materialGray = '#808080',
+    materialGray = '#005454',
     materialViolet = '#646695',
-    materialBlue = '#569CD6',
+    materialBlue = '#82aaff',
     materialDarkBlue = '#223E55',
     materialMediumBlue = '#18a2fe',
     materialLightBlue = '#9CDCFE',
-    materialGreen = '#6A9955',
-    materialBlueGreen = '#4EC9B0',
+    materialGreen = '#c3e88d',
+    materialBlueGreen = '#89ddff',
     materialLightGreen = '#B5CEA8',
-    materialRed = '#F44747',
-    materialOrange = '#CE9178',
-    materialLightRed = '#D16969',
+    materialRed = '#f07178',
+    materialOrange = '#f78c6c',
+    materialLightRed = '#ff5370',
     materialYellowOrange = '#D7BA7D',
-    materialYellow = '#DCDCAA',
+    materialYellow = '#ffcb6b',
     materialPink = '#C586C0',
   }
 end
