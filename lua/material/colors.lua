@@ -5,7 +5,7 @@ if vim.o.background == 'dark' then
     materialNone = 'NONE',
     materialFront = '#B2C2B0',
     materialBack = '#002626',
-    materialWhite = '#FFFFFF',
+    materialWhite = '#eeffff',
 
     materialTabCurrent = '#1E1E1E',
     materialTabOther = '#2D2D2D',
