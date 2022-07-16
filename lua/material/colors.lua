@@ -29,7 +29,7 @@ if vim.o.background == 'dark' then
     materialCursorLight = '#AEAFAD',
     materialSelection = '#1E611E',
     materialSelectioNFg = '#FFFFFF',
-    materialLineNumber = '#5A5A5A',
+    materialLineNumber = '#005454',
 
     materialDiffRedDark = '#4B1818',
     materialDiffRedLight = '#6F1313',
