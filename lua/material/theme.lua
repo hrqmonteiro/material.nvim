@@ -135,6 +135,7 @@ theme.set_highlights = function(opts)
     hl(0, 'TSTag', { fg = c.materialRed, bg = 'NONE' })
     hl(0, 'TSTagDelimiter', { fg = c.materialLightBlue, bg = 'NONE' })
     hl(0, 'TSNone', { fg = c.materialWhite, bg = 'NONE' })
+    hl(0, 'TSTagAttribute', { fg = c.materialYellow, bg = 'NONE' })
 
     hl(0, 'TSTitle', { fg = isDark and c.materialBlue or c.materialYellowOrange, bold = true })
     hl(0, 'TSLiteral', { fg = c.materialFront, bg = 'NONE' })
