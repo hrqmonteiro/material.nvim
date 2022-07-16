@@ -23,10 +23,10 @@ if vim.o.background == 'dark' then
     materialSplitDark = '#444444',
     materialSplitThumb = '#424242',
 
-    materialCursorDarkDark = '#002020',
+    materialCursorDarkDark = '#222222',
     materialCursorDark = '#51504F',
     materialCursorLight = '#AEAFAD',
-    materialSelection = '#1E611E',
+    materialSelection = '#264F78',
     materialLineNumber = '#5A5A5A',
 
     materialDiffRedDark = '#4B1818',
