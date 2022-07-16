@@ -50,7 +50,7 @@ if vim.o.background == 'dark' then
     materialBlue = '#82aaff',
     materialDarkBlue = '#223E55',
     materialMediumBlue = '#18a2fe',
-    materialLightBlue = '#9CDCFE',
+    materialLightBlue = '#89ddff',
     materialGreen = '#c3e88d',
     materialBlueGreen = '#89ddff',
     materialLightGreen = '#B5CEA8',
