@@ -3,7 +3,7 @@ local colors = {}
 if vim.o.background == 'dark' then
   colors = {
     materialNone = 'NONE',
-    materialFront = '#B2C2B0',
+    materialFront = '#EEFFE3',
     materialBack = '#002626',
     materialWhite = '#eeffff',
 
