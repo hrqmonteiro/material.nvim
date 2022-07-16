@@ -40,8 +40,8 @@ if vim.o.background == 'dark' then
     materialSearchCurrent = '#515c6a',
     materialSearch = '#613315',
 
-    materialContext = '#404040',
-    materialContextCurrent = '#707070',
+    materialContext = '#003535',
+    materialContextCurrent = '#335d5d',
 
     materialFoldBackground = '#202d39',
 
