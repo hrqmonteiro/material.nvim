@@ -17,7 +17,7 @@ if vim.o.background == 'dark' then
     materialLeftLight = '#636369',
 
     materialPopupFront = '#EEFFE3',
-    materialPopupBack = '#002626',
+    materialPopupBack = '#001B1A',
     materialPopupHighlightBlue = '#005454',
     materialPopupHighlightGray = '#002626',
     materialPopupHighlightGreen = '#002626',
