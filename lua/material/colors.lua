@@ -16,10 +16,11 @@ if vim.o.background == 'dark' then
     materialLeftMid = '#373737',
     materialLeftLight = '#636369',
 
-    materialPopupFront = '#BBBBBB',
-    materialPopupBack = '#272727',
-    materialPopupHighlightBlue = '#004b72',
+    materialPopupFront = '#EEFFE3',
+    materialPopupBack = '#002626',
+    materialPopupHighlightBlue = '#005454',
     materialPopupHighlightGray = '#343B41',
+    materialPopupHighlightYellow = '#ffcb6b'
 
     materialSplitLight = '#898989',
     materialSplitDark = '#444444',
