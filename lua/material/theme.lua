@@ -475,8 +475,8 @@ theme.set_highlights = function(opts)
     hl(0, 'CmpItemMenu', { fg = c.materialPopupFront, bg = 'NONE' })
     hl(0, 'CmpItemAbbr', { fg = c.materialFront, bg = 'NONE' })
     hl(0, 'CmpItemAbbrDeprecated', { fg = c.materialCursorDark, bg = c.materialPopupBack, strikethrough = true })
-    hl(0, 'CmpItemAbbrMatch', { fg = isDark and c.materialMediumBlue or c.materialDarkBlue, bg = 'NONE', bold = true })
-    hl(0, 'CmpItemAbbrMatchFuzzy', { fg = isDark and c.materialMediumBlue or c.materialDarkBlue, bg = 'NONE', bold = true })
+    hl(0, 'CmpItemAbbrMatch', { fg = isDark and c.materialYellow or c.materialYellow, bg = 'NONE', bold = true })
+    hl(0, 'CmpItemAbbrMatchFuzzy', { fg = isDark and c.materialYellow or c.materialYellow, bg = 'NONE', bold = true })
 
     -- Dashboard
     hl(0, 'DashboardHeader', { fg = c.materialBlue, bg = 'NONE' })
